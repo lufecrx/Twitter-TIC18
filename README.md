@@ -5,7 +5,7 @@ Este é um projeto de implementação de uma rede social baseada no Twitter. A r
 ## Funcionalidades Principais
 
 - Registro de usuários com nome de usuário único e nome real.
-- Postagem de tweets (até 255 caracteres).
+- Postagem de tweets.
 - Seguir outros usuários.
 - Receber feeds de tweets das pessoas seguidas.
 - Exibição de tweets em ordem cronológica, com os mais recentes no topo.
